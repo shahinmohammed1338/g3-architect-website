@@ -107,6 +107,23 @@ main{
   border: none;
 }
 
+#features-section-title{
+  border-left: 5px solid #FF900E;
+  padding-left: 20px;
+}
+
+.about-features{
+  max-width: 1440px;
+  max-resolution: 0 auto;
+}
+.div1, .div2, .div3, .div4{
+  font-weight: 600px;
+  font-size: 1.25rem;
+  padding: 30px;
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
 
 /* responsive media query*/
 
